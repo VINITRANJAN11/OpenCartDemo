@@ -1,0 +1,146 @@
+20:51:04.859 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vinit\eclipse-workspace\OpencartV122\CrossBrowserTesting.xml
+
+20:51:15.314 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest  ****
+20:51:15.598 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest  ****
+20:51:15.740 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest  ****
+20:51:16.005 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clck on My Accont Link
+20:51:16.859 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clck on My Accont Link
+20:51:17.008 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clck on My Accont Link
+20:51:17.209 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Proving customer details...
+20:51:45.083 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messages...
+20:51:56.538 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+20:52:09.798 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+20:52:30.389 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vinit\eclipse-workspace\OpencartV122\CrossBrowserTesting.xml
+
+20:52:39.577 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest  ****
+20:52:40.105 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest  ****
+20:52:40.185 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest  ****
+20:52:40.409 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clck on My Accont Link
+20:52:41.335 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Proving customer details...
+20:52:41.856 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clck on My Accont Link
+20:52:42.689 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clck on My Accont Link
+20:52:52.666 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Proving customer details...
+20:52:56.822 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messages...
+20:53:12.471 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messages...
+20:53:13.638 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest  ****
+20:53:22.318 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+21:23:38.780 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vinit\eclipse-workspace\OpencartV122\CrossBrowserTesting.xml
+
+21:23:46.747 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest  ****
+21:23:46.748 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest  ****
+21:23:46.868 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest  ****
+21:23:47.191 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clck on My Accont Link
+21:23:48.154 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clck on My Accont Link
+21:23:49.181 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clck on My Accont Link
+21:23:49.206 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Proving customer details...
+21:23:58.711 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Proving customer details...
+21:24:03.526 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messages...
+21:24:04.586 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest  ****
+21:24:26.084 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messages...
+21:24:27.093 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest  ****
+21:24:40.995 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+21:32:31.503 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vinit\eclipse-workspace\OpencartV122\master.xml
+
+21:33:36.352 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vinit\eclipse-workspace\OpencartV122\master.xml
+
+21:35:04.043 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vinit\eclipse-workspace\OpencartV122\master.xml
+
+21:35:08.399 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest  ****
+21:35:08.603 [main] INFO  testCases.TC001_AccountRegistrationTest - Clck on My Accont Link
+21:35:09.279 [main] INFO  testCases.TC001_AccountRegistrationTest - Proving customer details...
+21:35:21.727 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messages...
+21:35:22.672 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest  ****
+21:36:54.082 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vinit\eclipse-workspace\OpencartV122\master.xml
+
+21:36:57.349 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest  ****
+21:36:57.481 [main] INFO  testCases.TC001_AccountRegistrationTest - Clck on My Accont Link
+21:36:58.128 [main] INFO  testCases.TC001_AccountRegistrationTest - Proving customer details...
+21:37:10.810 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messages...
+21:37:11.766 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest  ****
+22:37:52.298 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vinit\eclipse-workspace\OpencartV122\master.xml
+
+22:39:12.896 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vinit\eclipse-workspace\OpencartV122\master.xml
+
+22:39:53.893 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vinit\eclipse-workspace\OpencartV122\master.xml
+
+22:41:05.987 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vinit\eclipse-workspace\OpencartV122\master.xml
+
+22:41:54.803 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest  ****
+22:42:08.200 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+22:42:26.493 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vinit\eclipse-workspace\OpencartV122\master.xml
+
+15:28:14.465 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vinit\eclipse-workspace\OpencartV122\master.xml
+
+15:29:17.319 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest  ****
+15:29:47.434 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+15:32:33.697 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vinit\eclipse-workspace\OpencartV122\CrossBrowserTesting.xml
+
+15:33:21.862 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest  ****
+15:33:22.472 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest  ****
+15:33:23.773 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest  ****
+15:33:51.975 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+15:33:52.530 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+15:33:53.826 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+15:40:40.628 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vinit\eclipse-workspace\OpencartV122\CrossBrowserTesting.xml
+
+15:40:40.757 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest  ****
+15:40:40.796 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+15:41:25.074 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest  ****
+15:41:26.230 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest  ****
+15:41:26.236 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clck on My Accont Link
+15:41:27.450 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clck on My Accont Link
+15:41:56.294 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+15:41:57.491 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+15:42:10.267 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vinit\eclipse-workspace\OpencartV122\CrossBrowserTesting.xml
+
+15:42:10.385 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest  ****
+15:42:10.418 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+15:42:54.326 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest  ****
+15:42:54.559 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest  ****
+15:42:59.039 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+15:43:02.742 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+15:43:58.109 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vinit\eclipse-workspace\OpencartV122\CrossBrowserTesting.xml
+
+15:43:58.230 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest  ****
+15:43:58.267 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+15:44:40.146 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest  ****
+15:44:41.561 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest  ****
+15:44:46.045 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+15:45:10.211 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+03:20:02.585 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vinit\eclipse-workspace\OpencartV122\CrossBrowserTesting.xml
+
+03:20:02.755 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest  ****
+03:20:02.793 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+03:20:21.181 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vinit\eclipse-workspace\OpencartV122\master.xml
+
+03:21:17.168 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vinit\eclipse-workspace\OpencartV122\CrossBrowserTesting.xml
+
+03:21:17.280 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest  ****
+03:21:17.312 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+03:44:03.251 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vinit\eclipse-workspace\OpencartV122\CrossBrowserTesting.xml
+
+03:44:45.933 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest  ****
+03:44:46.023 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+03:45:28.994 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest  ****
+03:45:59.031 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
